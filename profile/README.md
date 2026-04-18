@@ -1,6 +1,6 @@
 ## General Intelligence Labs
 
-We are buidling [xalia.ai](xalia.ai), bringing useful, responsible, and joyful AIs to human beings. 
+We are buidling perception-action stack of embodied intelligence. 
 
 <!--
 
