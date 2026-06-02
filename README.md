@@ -1,3 +1,7 @@
-# General Intelligence Labs
+# .github
 
-We bring safe, useful, and joyable AI to human beings. Our first product xalia.ai empowers agents with powerful capabilities. 
+This repository holds organization-wide defaults for **General Intelligence Labs**.
+
+- [`profile/README.md`](./profile/README.md) — the content rendered on our [public GitHub profile](https://github.com/General-Intelligence-Labs).
+
+General Intelligence Labs builds the perception–action stack for embodied intelligence — data, models, and tooling for the next billion robots. Learn more at [gilabs.xyz](https://gilabs.xyz).
