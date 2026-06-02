@@ -1,6 +1,6 @@
 ## General Intelligence Labs
 
-We are buidling perception-action stack of embodied intelligence. 
+Where data fuels embodied intelligence. 
 
 <!--
 
