@@ -4,8 +4,6 @@
 
 # General Intelligence Labs
 
-### Where data fuels embodied intelligence
-
 [![Website](https://img.shields.io/badge/gilabs.xyz-000000?style=flat-square&logo=safari&logoColor=white)](https://gilabs.xyz)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=rss&logoColor=white)](https://gilabs.xyz/blog)
 [![X](https://img.shields.io/badge/@gi__labs-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/gi_labs)
